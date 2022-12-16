@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.baf7237c.css",
+    "main.js": "/static/js/main.9b2e8c28.js",
+    "static/js/787.c168db8a.chunk.js": "/static/js/787.c168db8a.chunk.js",
+    "static/media/mitm5.png": "/static/media/mitm5.272e7989ae9c9ede5e0f.png",
+    "static/media/Phish5.png": "/static/media/Phish5.d6ca1768897cb3d0dafc.png",
+    "static/media/mitm1.png": "/static/media/mitm1.1a1b3a1aca960b66a712.png",
+    "static/media/mitm4.png": "/static/media/mitm4.d100ec977c808697684f.png",
+    "static/media/Phish2.png": "/static/media/Phish2.b417ea4f3d2dfbeb1bd1.png",
+    "static/media/mitm3.png": "/static/media/mitm3.4defe0ce13dfeda797b4.png",
+    "static/media/Phish3.jpg": "/static/media/Phish3.106493fdf800568e20d0.jpg",
+    "static/media/mitm2.png": "/static/media/mitm2.8cf29863343915af12e2.png",
+    "static/media/phishing-1 PNG.png": "/static/media/phishing-1 PNG.cda9703e4c8036c16479.png",
+    "static/media/Phish4.png": "/static/media/Phish4.22056ab73c5ee5810511.png",
+    "static/media/Phish1.jpg": "/static/media/Phish1.6c921235ccf45a6f97d9.jpg",
+    "static/media/Identity theft PNG.png": "/static/media/Identity theft PNG.2054378fe219c1f8ee64.png",
+    "static/media/mitm-bg.png": "/static/media/mitm-bg.b92a38797bf3ce8b0c82.png",
+    "static/media/mitm.png": "/static/media/mitm.00b186b8d42e6584c7df.png",
+    "static/media/dev-setup.webp": "/static/media/dev-setup.b39cb363f46e25785112.webp",
+    "static/media/montez-all-400-normal.woff": "/static/media/montez-all-400-normal.79b5dfe53039dd35baa7.woff",
+    "static/media/cyber-security.png": "/static/media/cyber-security.5c78cb80c11bc803a84d.png",
+    "static/media/montez-latin-400-normal.woff2": "/static/media/montez-latin-400-normal.e3ec19d3e32d3976b075.woff2",
+    "static/media/malware.png": "/static/media/malware.82027cc6ed64dbae4207.png",
+    "index.html": "/index.html",
+    "main.baf7237c.css.map": "/static/css/main.baf7237c.css.map",
+    "main.9b2e8c28.js.map": "/static/js/main.9b2e8c28.js.map",
+    "787.c168db8a.chunk.js.map": "/static/js/787.c168db8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf7237c.css",
+    "static/js/main.9b2e8c28.js"
+  ]
+}
